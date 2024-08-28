@@ -63,7 +63,7 @@
 ## 📈 Atividade Recente
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=GabrielReis04&theme=react-dark&hide_border=true&area=true">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=GabrielReis04&theme=react-dark">
 </div>
 
 ---
