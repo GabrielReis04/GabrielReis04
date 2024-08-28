@@ -60,24 +60,16 @@
 
 ---
 
-## 📈 Atividade Recente
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=GabrielReis04&theme=react-dark">
-</div>
-
----
-
 ## 🌐 Vamos Conectar!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gabrielreis04/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-dos-reis-pereira-715494275/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/GabrielReis04" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="mailto:gabrielreis@example.com">
+  <a href="mailto:gabrieldosreidpereira2402@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
